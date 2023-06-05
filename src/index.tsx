@@ -9,7 +9,7 @@ import "firebase/auth";
 import { Provider } from "react-redux";
 import { store } from "./redux/store";
 
-let myTitle = "Alcantara's Car Inventory";
+let myTitle = "Mendoza's Car Inventory";
 
 ReactDOM.render(
   <React.StrictMode>
